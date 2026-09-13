@@ -134,7 +134,7 @@ const Hero = () => {
             <motion.div variants={itemVariants} className="cta-group">
               <a 
                 href={resumePdf} 
-                download="Janhavi_Patil_Resume.pdf" 
+                download="Janhavi_Resume.pdf" 
                 className="btn-primary"
               >
                 <Download size={18} />
