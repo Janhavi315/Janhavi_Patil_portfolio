@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { Mail, Download, ArrowRight, Sparkles } from 'lucide-react';
-import profileImg from '../assets/janhavi-photo(current).jpg';
+import profileImg from '../assets/janhavi-photo(Current).jpg';
 import resumePdf from '../assets/Janhavi_Resume.pdf';
 
 const GithubIcon = ({ size = 20 }) => (
