@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { Mail, Download, ArrowRight, Sparkles } from 'lucide-react';
 import profileImg from '../assets/janhavi-photo(current).jpg';
-import resumePdf from '../assets/Janhavi_Patil_Resume.pdf';
+import resumePdf from '../assets/Janhavi_Resume.pdf';
 
 const GithubIcon = ({ size = 20 }) => (
   <svg viewBox="0 0 24 24" width={size} height={size} stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round">
